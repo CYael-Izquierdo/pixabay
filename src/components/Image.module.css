@@ -1,0 +1,11 @@
+.fill {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    overflow: hidden;
+}
+.fill img {
+    object-fit: fill;
+    min-width: 100%;
+    min-height: 100%;
+}
